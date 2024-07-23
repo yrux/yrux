@@ -71,8 +71,7 @@
   <table>
     <thead>
       <tr>
-        <th colspan="3">Frameworks & Libraries </th>
-        <th colspan="3">Agile Methodologies</th>
+        <th colspan="6">Frameworks & Libraries </th>
       </tr>
     </thead>
     <tr>
@@ -133,15 +132,9 @@
     </tr>
     <tr>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"/> </td>
     </tr>
     <tr> 
       <td align="center" width=110>Docker</td>
-      <td align="center" width=110>Jupyter</td>
-      <td align="center" width=110>Jira</td>
-      <td align="center" width=110>CodePen</td>
     </tr>
   </table>
   <table>

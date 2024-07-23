@@ -58,11 +58,13 @@
       <td align="center" width=110> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> </td>
+      <td align="center" width=110> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> </td>
     <tr> 
       <td align="center" width=110>PostgreSQL</td>
       <td align="center" width=110>MySQL</td>
       <td align="center" width=110>SQLite</td>
       <td align="center" width=110>Markdown</td>
+      <td align="center" width=110>PHP</td>
     </tr>
   </table>
 

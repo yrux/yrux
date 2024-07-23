@@ -57,13 +57,13 @@
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </td>
       <td align="center" width=110> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/> </td>
       <td align="center" width=110> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> </td>
     <tr> 
       <td align="center" width=110>PostgreSQL</td>
       <td align="center" width=110>MySQL</td>
       <td align="center" width=110>SQLite</td>
-      <td align="center" width=110>Markdown</td>
+      <td align="center" width=110>Go</td>
       <td align="center" width=110>PHP</td>
     </tr>
   </table>
@@ -89,9 +89,13 @@
       <tr>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> </td>
       <tr align="center"> 
         <td align="center" width=110>Bootstrap</td>
         <td align="center" width=110>JQuery</td>
+        <td align="center" width=110>Vue</td>
+        <td align="center" width=110>React</td>
       </tr>
     </tr>
   </table>
@@ -117,13 +121,15 @@
     </tr>
     <tr>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> </td> 
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/> </td> 
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg"/> </td> 
     </tr>
     <tr> 
       <td align="center" width=110>VSCode</td>
-      <td align="center" width=110>Pycharm</td>
       <td align="center" width=110>Google Cloud</td>
+      <td align="center" width=110>AWS</td>
+      <td align="center" width=110>Digital Ocean</td>
     </tr>
     <tr>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> </td>
